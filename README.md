@@ -1,19 +1,6 @@
 # [Cristian Diaz]
 ## Analista de Datos
 
-<!-- Agregar un tema -->
-<style>
-  body {
-    background-color: #f4f4f4; /* Color de fondo */
-    font-family: Arial, sans-serif; /* Fuente de texto */
-    color: #333; /* Color del texto */
-    max-width: 800px; /* Ancho máximo del contenido */
-    margin: 0 auto; /* Centrar el contenido en la página */
-    padding: 20px; /* Espaciado interior */
-  }
-</style>
-
-
 
 ¡Bienvenido a mi portafolio de analista de datos! Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con la ciencia de datos.
 
