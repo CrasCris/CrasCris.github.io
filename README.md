@@ -1,6 +1,7 @@
 # [Cristian Diaz]
 ## Analista de Datos
-¡Bienvenido a mi portafolio de analista de datos! Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con la ciencia de datos.
+
+<!-- Agregar un tema -->
 <style>
   body {
     background-color: #f4f4f4; /* Color de fondo */
@@ -11,6 +12,11 @@
     padding: 20px; /* Espaciado interior */
   }
 </style>
+
+
+
+¡Bienvenido a mi portafolio de analista de datos! Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con la ciencia de datos.
+
 
 ## Proyectos Destacados
 
