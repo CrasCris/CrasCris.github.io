@@ -1,6 +1,7 @@
 # [Cristian Diaz]
 ## Analista de Datos
 ¡Bienvenido a mi portafolio de analista de datos! Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con la ciencia de datos.
+theme: minima .
 
 ## Proyectos Destacados
 
