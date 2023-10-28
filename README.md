@@ -1,14 +1,10 @@
 # [Cristian Diaz]
 ## Analista de Datos
 
-
-¡Bienvenido a mi portafolio de analista de datos! Aquí encontrarás una muestra de algunos de mis proyectos y trabajos relacionados con la ciencia de datos.
-
-
 ## Proyectos Destacados
 
-### Análisis de Ventas en Retail
-- **Descripción**: Análisis de datos de ventas en una empresa de retail para identificar tendencias, patrones estacionales y recomendaciones para mejorar las ventas.
+### Modelo de Clasificacion Multiple
+- **Descripción**: Consumiendo una API de datos libres de Colombia, se proponen diversos modelo de clasificacion de a que facultad pertenecen de pendiendo, su estrato, su genero y su ciudad de residencia
 - **Herramientas utilizadas**: Python, Pandas, Matplotlib, Jupyter Notebook.
 - [Enlace al Proyecto](#)
 
