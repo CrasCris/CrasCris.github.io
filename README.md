@@ -1,5 +1,5 @@
 # [Cristian Diaz]
-## Analista de Datos
+## Protafolio
 
 ## Proyectos Destacados
 
@@ -11,7 +11,7 @@
 ### Predicción de Churn de Clientes
 - **Descripción**: Desarrollo de un modelo de aprendizaje automático para predecir el abandono de clientes en una empresa de telecomunicaciones.
 - **Herramientas utilizadas**: Python, Scikit-Learn, XGBoost, Jupyter Notebook.
-- [Enlace al Proyecto](#)
+- [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Modelo_Clasificación_Multiple.ipynb)
 
 ### Visualización de Datos en Tableau
 - **Descripción**: Creación de paneles interactivos de visualización de datos en Tableau para presentar métricas clave de rendimiento.
