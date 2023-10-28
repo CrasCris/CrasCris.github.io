@@ -1,7 +1,5 @@
-# [Cristian Diaz]
+# Cristian Diaz
 ## Protafolio
-
-## Proyectos Destacados
 
 ### Modelo de Clasificacion Multiple
 - **Descripción**: Consumiendo una API de datos libres de Colombia, se proponen diversos modelo de clasificacion de a que facultad pertenecen de pendiendo, su estrato, su genero y su ciudad de residencia
