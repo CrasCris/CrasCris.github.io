@@ -6,7 +6,7 @@
 ### Modelo de Clasificacion Multiple
 - **Descripción**: Consumiendo una API de datos libres de Colombia, se proponen diversos modelo de clasificacion de a que facultad pertenecen de pendiendo, su estrato, su genero y su ciudad de residencia
 - **Herramientas utilizadas**: Python, Pandas, Matplotlib, Jupyter Notebook.
-- [Enlace al Proyecto](#)
+- [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Modelo_Clasificación_Multiple.ipynb)
 
 ### Predicción de Churn de Clientes
 - **Descripción**: Desarrollo de un modelo de aprendizaje automático para predecir el abandono de clientes en una empresa de telecomunicaciones.
