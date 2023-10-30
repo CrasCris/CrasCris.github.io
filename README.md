@@ -6,7 +6,7 @@
 - **Herramientas utilizadas**: Python, Pandas, Matplotlib, Jupyter Notebook.
 - [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Modelo_Clasificación_Multiple.ipynb)
 
-### Modelización Covid-19 en Santander Series de tiempo
+### Modelización Covid-19 en Santander con Series de tiempo
 - **Descripción**: Usandos los datos publicos del covid-19 en colombia, se plantean dos modelos de series de tiempo, un modelo ARIMA multiplicativo y un modelo GARCH. De la misma manera se presenta un tablero de control para vizualisar el numero de casos por municipio, su estado, su edad y su genero.
 - **Herramientas utilizadas**: R, Rstudio, VSCode, Tidyverse, TSerie, Zoo , TSA, Power Bi, Power Query.
 - [Enlace al Proyecto](https://github.com/CrasCris/Proyecto/blob/master/ProyectoFinal.R)
