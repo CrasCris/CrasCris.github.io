@@ -22,6 +22,10 @@
 - **Herramientas utilizadas**: Python, Scikit-Learn, Tensor Flow, Jupyter Notebook, Keras.
 - [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Predicci%C3%B3nTRM.ipynb)
 
+### Traducción de español a italiano usando Transformers (proyecto desde cero)
+- **Descripción**: Un modelo de Transformer(encoder-decoder) desde cero con la tarea de traducir de español a italiano, este codigo fue posible gracias a la ayuda de "Umar Jamil"
+- **Herramientas utilizadas**: Python, Torch, Tensor Flow,HuggingFace, Keras, Cuda.
+- [Enlace al Proyecto](https://github.com/CrasCris/Transformer-v1)
 ## Educación
 - **Título Universitario en Matematicas**
   - Universidad Industrial de Santander
