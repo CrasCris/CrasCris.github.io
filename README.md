@@ -2,7 +2,7 @@
 ## Portafolio
 
 ### Modelo de Clasificacion Multiple
-- **Descripción**: Consumiendo una API de datos libres de Colombia, se proponen diversos modelo de clasificacion de a que facultad pertenecen de pendiendo, su estrato, su genero y su ciudad de residencia
+- **Descripción**: Consumiendo una API de datos libres de Colombia, se proponen diversos modelo de clasificacion para determinar la posible facultad de pendiendo, su estrato, su genero y su ciudad de residencia
 - **Herramientas utilizadas**: Python, Pandas, Matplotlib, Jupyter Notebook.
 - [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Modelo_Clasificación_Multiple.ipynb)
 
