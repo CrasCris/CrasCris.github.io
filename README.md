@@ -28,7 +28,7 @@
 - [Enlace al Proyecto](https://github.com/CrasCris/Transformer-v1)
 
 ### Modelo de detección de elementos de protección personal
-- **Descripción**: Basandonos en el Paper [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), se han creado arquitecturas de modelos de detección de imagenes, hasta la arquitectura más reciente y optimizada YOLO-NAS, se crea un modelo para detectar si los trabajadores portan sus EPP.
+- **Descripción**: Basandonos en el Paper [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), se han creado arquitecturas de modelos de detección de imagenes, hasta la arquitectura más reciente y optimizada [YOLO-NAS](https://docs.deci.ai/super-gradients/latest/YOLONAS.html), se crea un modelo para detectar si los trabajadores portan sus EPP.
 - **Herramientas utilizadas**: Super-gradients, torch, RoboFlow
 - [Enlace al Proyecto](https://github.com/CrasCris/Yolo-Nas-FineTuning)
 
