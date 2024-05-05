@@ -36,7 +36,9 @@
 - **Título Universitario en Matematicas**
   - Universidad Industrial de Santander
   - Año de graduación: 2023
-
+- **Cursos Complementarios**
+  - Machine Learning de A a la Z: R y Python para Data Science (Udemy)
+  - Fundamentos profesionales del analisis de datos por Microsoft y LinkedIn
 ## Contacto
 ¡Si estás interesado en colaborar o tienes alguna pregunta, no dudes en ponerte en contacto conmigo!
 - Correo Electrónico: [cristianjdiaz11@gmail.com](mailto:cristianjdiaz11@gmail.com)
