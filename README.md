@@ -29,8 +29,13 @@
 
 ### Modelo de detección de elementos de protección personal
 - **Descripción**: Basandonos en el Paper [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), se han creado arquitecturas de modelos de detección de imagenes, hasta la arquitectura más reciente y optimizada [YOLO-NAS](https://docs.deci.ai/super-gradients/latest/YOLONAS.html), se crea un modelo para detectar si los trabajadores portan sus EPP.
-- **Herramientas utilizadas**: Super-gradients, torch, RoboFlow
+- **Herramientas utilizadas**: Super-gradients, torch, RoboFlow.
 - [Enlace al Proyecto](https://github.com/CrasCris/Yolo-Nas-FineTuning)
+
+### Chat IA Generativa
+- **Descripción**: Usando modelos OpenSource se diseño un chat para poder consultar documentos PDF liquidos, se usa un modelo fundacional LLM, y un modelo que realiza los embeddings ,que se almacenan en memoria, tambien se podría seguir usando una base de datos vectorial, además se añade el Dockerfile para la implementación en producción
+- **Herramientas utilizadas**: LangChain, HuggingFace, Streamlit, Docker
+- - [Enlace al Proyecto](https://github.com/CrasCris/TechnicalTest/tree/master/Part2)
 
 ## Educación
 - **Título Universitario en Matematicas**
