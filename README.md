@@ -35,7 +35,7 @@
 ### Chat IA Generativa
 - **Descripción**: Usando modelos OpenSource se diseño un chat para poder consultar documentos PDF liquidos, se usa un modelo fundacional LLM, y un modelo que realiza los embeddings ,que se almacenan en memoria, tambien se podría seguir usando una base de datos vectorial, además se añade el Dockerfile para la implementación en producción
 - **Herramientas utilizadas**: LangChain, HuggingFace, Streamlit, Docker
-- - [Enlace al Proyecto](https://github.com/CrasCris/TechnicalTest/tree/master/Part2)
+- [Enlace al Proyecto](https://github.com/CrasCris/TechnicalTest/tree/master/Part2)
 
 ## Educación
 - **Título Universitario en Matematicas**
