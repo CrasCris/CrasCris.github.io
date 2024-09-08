@@ -22,11 +22,6 @@
 - **Herramientas utilizadas**: Python, Scikit-Learn, Tensor Flow, Jupyter Notebook, Keras.
 - [Enlace al Proyecto](https://github.com/CrasCris/MachineLearning/blob/main/Predicci%C3%B3nTRM.ipynb)
 
-### Traducción de español a italiano usando Transformers (desde cero)
-- **Descripción**: Un modelo de Transformer(encoder-decoder) desde cero con la tarea de traducir de español a italiano, este codigo fue posible gracias a la ayuda de "Umar Jamil"
-- **Herramientas utilizadas**: Python, Torch, Tensor Flow,HuggingFace, Keras, Cuda.
-- [Enlace al Proyecto](https://github.com/CrasCris/Transformer-v1)
-
 ### Modelo de detección de elementos de protección personal
 - **Descripción**: Basandonos en el Paper [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), se han creado arquitecturas de modelos de detección de imagenes, hasta la arquitectura más reciente y optimizada [YOLO-NAS](https://docs.deci.ai/super-gradients/latest/YOLONAS.html), se crea un modelo para detectar si los trabajadores portan sus EPP.
 - **Herramientas utilizadas**: Super-gradients, torch, RoboFlow.
